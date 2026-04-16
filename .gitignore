@@ -14,9 +14,6 @@ __pycache__/
 __pycache__/
 *.pyc
 
-static/
-static/
-static/
 .venv/
 venv/
 __pycache__/
