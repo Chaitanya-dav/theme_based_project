@@ -1,12 +1,15 @@
 ﻿thumb,index,middle,ring,pinky,roll,pitch,motion,gesture
 straight,straight,straight,straight,straight,palm_outward,fingers_up,static,HELLO
 straight,straight,straight,straight,straight,palm_outward,fingers_up,waving,HELLO
+straight,straight,straight,straight,straight,palm_netural,fingers_up,waving,HELLO
 straight,straight,straight,straight,straight,palm_inward,fingers_forward,waving,THANK YOU
+straight,straight,straight,straight,straight,palm_inward,fingers_up,waving,THANK YOU
+straight,straight,straight,straight,straight,palm_inward,fingers_up,static,THANK YOU
 bent,bent,bent,bent,bent,palm_down,fingers_down,static,STOP
 bent,straight,bent,bent,bent,palm_neutral,fingers_up,static,ONE
 bent,straight,bent,bent,bent,palm_outward,fingers_up,static,ONE
 bent,straight,straight,bent,bent,palm_neutral,fingers_up,static,TWO
-bent,straight,straight,bent,bent,palm_outawrd,fingers_up,static,TWO
+bent,straight,straight,bent,bent,palm_outward,fingers_up,static,TWO
 bent,straight,straight,straight,bent,palm_neutral,fingers_up,static,THREE
 straight,straight,straight,bent,bent,palm_outward,fingers_up,static,THREE
 straight,straight,straight,bent,bent,palm_inward,fingers_up,static,THREE
